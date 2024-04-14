@@ -1,1 +1,1 @@
-This is a friends quiz for the people who know me well
+This is a CLI quiz app made using Node js. This can be shared with friends to find out who know me well.
